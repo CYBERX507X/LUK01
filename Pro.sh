@@ -174,7 +174,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 4
 pkg install python2
 pkg install git
-https://github.com/CYBERX507X/prenium
+git clone https://github.com/CYBERX507X/prenium
 cd prenium
 python2 Fb.py
 fi
@@ -185,7 +185,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
 git clone https://github.com/CYBERX507X/Fbv1
-cd fb1
+cd Fbv1
 python2 VIP.py
 fi
 
@@ -207,7 +207,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
-git https://github.com/CYBERX507X/spm71
+git clone https://github.com/CYBERX507X/spm71
 cd spm71
 python2 Sms.py
 fi
